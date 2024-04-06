@@ -9,8 +9,8 @@ const userRouter = express.Router()
  * @swagger
  * /v1/profiles:
  *   get:
- *     summary: Get all public profiles
- *     description: Retrieve all public profiles based on pagination and user roles.
+ *     summary: Get all profiles according to conditions
+ *     description: Retrieve all profiles based on pagination and user roles.
  *     parameters:
  *       - in: query
  *         name: page
