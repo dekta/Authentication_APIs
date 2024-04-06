@@ -24,8 +24,6 @@
 
 
 ## Base API
-- **Local** = `http://localhost:3000`
-- **Deployed** = `https://red-funny-chameleon.cyclic.app`
 - **Swagger** =  `https://red-funny-chameleon.cyclic.app/api-docs/`
 
 
