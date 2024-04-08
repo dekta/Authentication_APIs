@@ -23,7 +23,6 @@
 * MongoDB
 
 
-## Base API
-- **Swagger** =  `https://red-funny-chameleon.cyclic.app/api-docs/`
+
 
 
